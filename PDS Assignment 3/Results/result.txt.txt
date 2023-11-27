@@ -1,0 +1,5 @@
+1. The population's mean and maximum BloodPressure values exceed those of the sample.
+
+2. The population's 98th percentile for BMI appears to surpass the sample's 98th percentile in the given dataset.
+
+3. The variance between the population and bootstrap statistics for BloodPressure seems minimal in the dataset provided.
